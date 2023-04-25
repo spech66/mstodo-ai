@@ -73,3 +73,7 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+## Resources
+
+* [MSGraph Tutorial](https://github.com/microsoftgraph/msgraph-training-typescript/tree/main/user-auth/graphtutorial)
